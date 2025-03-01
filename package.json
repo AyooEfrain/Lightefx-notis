@@ -1,0 +1,22 @@
+{
+  "name": "lightefx-notis",
+  "version": "1.0.0",
+  "description": "package file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyooEfrain/Lightefx-notis.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "LightEFX",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AyooEfrain/Lightefx-notis/issues"
+  },
+  "homepage": "https://github.com/AyooEfrain/Lightefx-notis#readme"
+}
