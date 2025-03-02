@@ -21,6 +21,8 @@ dependencies {
     // Kord Extensions - https://github.com/Kord-Extensions/kord-extensions
     implementation(libs.kordextensions.kordextensions)
     implementation(libs.kordextensions.unsafe)
+    implementation 'com.sparkjava:spark-core:2.9.4'
+
 
     // KordX.Emoji - https://github.com/kordlib/kordx.emoji
     implementation (libs.kordx.emoji)
